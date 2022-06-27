@@ -16,7 +16,7 @@ body{
   background: white;
   position: relative;
   width: 100vw;
-  height: 106vw;
+  height: 95vw;
 }
 .img-premio{
   width: 96vw;
@@ -74,6 +74,16 @@ h2{
   animation-duration: 2s;
   animation-iteration-count: infinite;
 }
+h3{
+  text-align: center;
+  font-family: 'roboto';
+  font-weight: 500;
+  background: white;
+  position: relative;
+  padding: 2vw 0 2vw 0;
+  color: red;
+  top: 4vw;
+}
 main{
   background: ;
   position: relative;
@@ -123,6 +133,8 @@ main{
   display: block;
   margin: 2vw auto;
   display: non;
+  order-radius: 100vw;
+  object-fit: cover;
 }
 .num{
   background: ;
