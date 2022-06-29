@@ -103,9 +103,10 @@ main{
   background: white;
   position: relative;
   width: 19vw;
-  height: 40.5vw;
+  height: 41vw;
   float: left;
   border: solid .5vw whitesmoke;
+  transition: .5s;
 }
 .left:hover{
   left: 1vw;
@@ -162,7 +163,7 @@ main{
   width: 100vw;
   height: 20vw;
 }
-#num1,#num2,#num3, #num4,#num41,#num42,#num43,#num44,#num45,#num46,#num47,#num48,#num57,#num58,#num59,#num60,#num13,#num33,#num52, #num77,#num78,#num85,#num86,#num25{
+#num1,#num2,#num3, #num4,#num41,#num42,#num43,#num44,#num45,#num46,#num47,#num48,#num57,#num58,#num59,#num60,#num13,#num33,#num52, #num77,#num78,#num85,#num86,#num25,#num73,#num74,#num75,#num76{
   background: red;
   color: white;
 }
